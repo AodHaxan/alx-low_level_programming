@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #C - Even more pointers, arrays and strings
 
 #TASKS.
@@ -85,6 +84,3 @@ ltrace, ldd, gdb and objdump can help
 You may need to install the openssl library to run the crakme2 program: sudo apt install libssl-dev
 Edit the source list sudo nano /etc/apt/sources.list to add the following line: deb http://security.ubuntu.com/ubuntu xenial-security main Then sudo apt update and sudo apt install libssl1.0.0
 
-=======
-alx-low_level_programming
->>>>>>> 8441516e2742aec8c6a611579ae9a7fc24b3154f
